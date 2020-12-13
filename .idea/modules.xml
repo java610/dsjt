@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dsjt.iml" filepath="$PROJECT_DIR$/.idea/dsjt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day02/代码/jt-common/jt-common.iml" filepath="$PROJECT_DIR$/Day02/代码/jt-common/jt-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day01/代码/jt-common/jt-common1.iml" filepath="$PROJECT_DIR$/Day01/代码/jt-common/jt-common1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day02/代码/jt-manage/jt-manage.iml" filepath="$PROJECT_DIR$/Day02/代码/jt-manage/jt-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day01/代码/jt-parent/src/main/main.iml" filepath="$PROJECT_DIR$/Day01/代码/jt-parent/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day02/代码/jt-parent/src/main/main1.iml" filepath="$PROJECT_DIR$/Day02/代码/jt-parent/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day02/代码/jt-parent/src/test/test.iml" filepath="$PROJECT_DIR$/Day02/代码/jt-parent/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day01/代码/jt-parent/src/test/test1.iml" filepath="$PROJECT_DIR$/Day01/代码/jt-parent/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>
